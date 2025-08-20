@@ -1,6 +1,4 @@
-<?php
-// You can add any PHP logic here if needed
-?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
